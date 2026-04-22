@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/School/Documents/Freshman 25-26/EEE 202 Video/EEE-202-AC-Video/my-project/media/videos/Vid3/1080p30/partial_movie_files/PhasorDiagram/4077315537_3438956717_223132457.mp4'
+file 'file:C:/Users/School/Documents/Freshman 25-26/EEE 202 Video/EEE-202-AC-Video/my-project/media/videos/Vid3/1080p30/partial_movie_files/PhasorDiagram/2561303421_3511397882_745726593.mp4'
+file 'file:C:/Users/School/Documents/Freshman 25-26/EEE 202 Video/EEE-202-AC-Video/my-project/media/videos/Vid3/1080p30/partial_movie_files/PhasorDiagram/2561303421_77900468_2952713569.mp4'
+file 'file:C:/Users/School/Documents/Freshman 25-26/EEE 202 Video/EEE-202-AC-Video/my-project/media/videos/Vid3/1080p30/partial_movie_files/PhasorDiagram/2561303421_2408024828_1276818456.mp4'

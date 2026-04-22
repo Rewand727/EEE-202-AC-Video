@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/School/Documents/Freshman 25-26/EEE 202 Video/EEE-202-AC-Video/my-project/media/videos/main/1080p30/partial_movie_files/DefaultTemplate/4077315537_2169219173_223132457.mp4'
+file 'file:C:/Users/School/Documents/Freshman 25-26/EEE 202 Video/EEE-202-AC-Video/my-project/media/videos/main/1080p30/partial_movie_files/DefaultTemplate/2561303421_2176658000_557880437.mp4'
+file 'file:C:/Users/School/Documents/Freshman 25-26/EEE 202 Video/EEE-202-AC-Video/my-project/media/videos/main/1080p30/partial_movie_files/DefaultTemplate/2561303421_4132448990_557880437.mp4'

@@ -34,22 +34,22 @@ class ACvsDC(Scene):
 
         # -------- Magnitude --------
 
-        self.play(amp.animate.set_value(2), run_time=2)
-        self.play(amp.animate.set_value(0.5), run_time=2)
-        self.play(amp.animate.set_value(1), run_time=1.5)
-        self.wait(1)
+        self.play(amp.animate.set_value(2), run_time=1)
+        self.play(amp.animate.set_value(0.5), run_time=1)
+        self.play(amp.animate.set_value(1), run_time=1)
+        self.wait(.5)
 
 
         # -------- Period --------
 
 
 
-        self.play(omega.animate.set_value(0.5), run_time=3)  # longer period
-        self.play(omega.animate.set_value(1), run_time=1.5)
+        self.play(omega.animate.set_value(0.5), run_time=1.5)  # longer period
+        self.play(omega.animate.set_value(1), run_time=1)
 
-        self.play(omega.animate.set_value(2), run_time=3)  # higher frequency
-        self.play(omega.animate.set_value(1), run_time=1.5)
-        self.wait(1)
+        self.play(omega.animate.set_value(2), run_time=1.5)  # higher frequency
+        self.play(omega.animate.set_value(1), run_time=1)
+        self.wait(.5)
 
 
 
@@ -57,8 +57,8 @@ class ACvsDC(Scene):
 
 
 
-        self.play(phi.animate.set_value(PI/2), run_time=3)
-        self.play(phi.animate.set_value(-PI/2), run_time=3)
-        self.play(phi.animate.set_value(0), run_time=1.5)
-        self.wait(2)
+        self.play(phi.animate.set_value(PI/2), run_time=1.5)
+        self.play(phi.animate.set_value(-PI/2), run_time=1.5)
+        self.play(phi.animate.set_value(0), run_time=1)
+        self.wait(.75)
 
