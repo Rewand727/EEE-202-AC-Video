@@ -1,0 +1,7 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/School/Documents/Freshman 25-26/EEE 202 Video/EEE-202-AC-Video/my-project/media/videos/Vid1/1080p30/partial_movie_files/ACvsDC/4077315537_4196841561_223132457.mp4'
+file 'file:C:/Users/School/Documents/Freshman 25-26/EEE 202 Video/EEE-202-AC-Video/my-project/media/videos/Vid1/1080p30/partial_movie_files/ACvsDC/2561303421_3464634355_2625123166.mp4'
+file 'file:C:/Users/School/Documents/Freshman 25-26/EEE 202 Video/EEE-202-AC-Video/my-project/media/videos/Vid1/1080p30/partial_movie_files/ACvsDC/2561303421_2408024828_1549955311.mp4'
+file 'file:C:/Users/School/Documents/Freshman 25-26/EEE 202 Video/EEE-202-AC-Video/my-project/media/videos/Vid1/1080p30/partial_movie_files/ACvsDC/2561303421_1222073083_2868668526.mp4'
+file 'file:C:/Users/School/Documents/Freshman 25-26/EEE 202 Video/EEE-202-AC-Video/my-project/media/videos/Vid1/1080p30/partial_movie_files/ACvsDC/2561303421_959307102_3782362220.mp4'
+file 'file:C:/Users/School/Documents/Freshman 25-26/EEE 202 Video/EEE-202-AC-Video/my-project/media/videos/Vid1/1080p30/partial_movie_files/ACvsDC/2561303421_2428774157_166890487.mp4'
